@@ -1,0 +1,33 @@
+[
+  {
+    "name": "user1",
+    "food": [
+      {
+        "name": "brocolli",
+        "nutritionValues": [
+          {
+            "nutrition": "VitaminB12",
+            "amount": "15mg"
+          },
+          {
+            "nutrition": "VitaminC",
+            "amount": "10mg"
+          }
+        ]
+      },
+      {
+        "name": "chicken breast",
+        "nutritionValues": [
+          {
+            "nutrition": "VitaminB12",
+            "amount": "25mg"
+          },
+          {
+            "nutrition": "VitaminC",
+            "amount": "30mg"
+          }
+        ]
+      }
+    ]
+  }
+]
