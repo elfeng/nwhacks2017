@@ -7,6 +7,8 @@
  * A Node script connecting to a MongoDB database given a MongoDB Connection URI.
 */
 
+/*** HOW TO INTERACT WITH THE DATABASE ***/
+
 var mongodb = require('mongodb');
 
 // Create seed data
