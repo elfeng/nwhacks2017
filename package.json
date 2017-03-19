@@ -1,0 +1,23 @@
+{
+  "name": "bluberry",
+  "version": "1.0.0",
+  "description": "hacks and dat",
+  "main": "db.js",
+  "scripts": {
+    "start": "node db.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvanstroud/nwhacks2017.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvanstroud/nwhacks2017/issues"
+  },
+  "homepage": "https://github.com/samvanstroud/nwhacks2017#readme",
+  "dependencies": {
+    "mongodb": "^2.2.25"
+  }
+}
