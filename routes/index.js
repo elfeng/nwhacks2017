@@ -9,6 +9,7 @@ var userSchema = {
     food: Array
 }
 
+var Users = mongoose.model('Users', userSchema, 'users');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
