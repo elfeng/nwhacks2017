@@ -6,7 +6,7 @@
     "node": "4.2.4"
   },
   "scripts": {
-    "start": "node myapp/app.js"
+    "start": "app.js"
   },
   "dependencies": {
     "body-parser": "~1.16.0",
