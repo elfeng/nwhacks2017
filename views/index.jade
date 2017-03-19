@@ -1,5 +1,8 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div(id='content')
+  script(type='text/javascript')
+    var emailX = 'theodore.lau@gmail.com'
+    var passwordX = 'ubc1234'
+  script(type='text/babel', src='/application/index.js')

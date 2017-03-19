@@ -6,3 +6,28 @@ body {
 a {
   color: #00B7FF;
 }
+
+div.content {
+    text-align: center;
+    margin-top: 50px;
+}
+
+img.logo {
+    width: 300px;
+}
+
+input.index-input {
+    width: 300px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.index-input {
+    width: 300px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.has-success .form-control {
+    border-color: #2d6ba2 !important;
+}
